@@ -57,8 +57,13 @@
   ],
   "portfolio": [
     {
-      "name": "Projetos Github",
-      "url": "https://github.com/igorvianaandrade",
+      "name": "Projetos - curso JS da Dio: pokedex",
+      "url": "https://github.com/igorvianaandrade/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Projetos - curso JS da Dio: portfolio",
+      "url": "https://github.com/igorvianaandrade/js-developer-portfolio",
       "github": true
     }
   ],
