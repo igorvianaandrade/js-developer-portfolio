@@ -69,19 +69,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Consultor Soluções customizadas II, Capgemini",
+      "period": "December/2020 - June/2021",
+      "description": "Salvador, Bahia, Brasil Participação em projetos como desenvolvedor(front-end/back-end). Pesquisa e desenvolvimento na plataforma do cliente usando as tecnologias: Java(Api e serviços REST); Angular e BootStrap(framework); Linguagens: Html, CSS, JavaScript, SQL, java e c#; Figma(Designer Interface), GitHub, Visual Studio Code/IDE Eclipse, Jenkins(Integração Continua) e Docker. Participação em Dailys usando o Microsoft Teams e acompanhamento das tarefas usando Jira, Kanban e avaliação mensal de resultados usando Planilha (categorias de commits/github X nível do cargo). Cursos da plataforma de estudos: Inglês Técnico(EF Business - nível intermediário) e Tecnologias usadas no cliente."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista de sistemas, Capgemini",
+      "period": "June/2015 - October/2017",
+      "description": "Salvador e Região, Brasil Projeto: Relatórios-EEEM: Projeto implementado na tecnologia Java(Struts e JSP) para geração de relatórios gerenciais a partir de um Data Warehouse(Banco de Dados Oracle - SQL), servidor WebSphere 7. Utilizando-se de dois relatórios modelos implementados pelo cliente, foram desenvolvidos 10 relatórios gerenciais. Refatoração de códigos seguindo as regras da ferramenta de Integração Continua da BradescoSeguros; Projeto: CBTI Migração de legado(JSP, JS e Struts) para Angularjs com bootstrap(frontend) e WebServices com Rest/SpringFramework(backend) usando o servidor WebSphere 7. Projeto: THOR Implementação de regras(De-Para) para migração de dados SAP -> outros sistemas(java); Implementação de relatórios(iReport); Testes na interface do sistema e nos serviços web usando o SoapUi; Projeto: Gestor de Documentos Emissão Expressa Análise e implementação usando a tecnologia Angularjs, bootstrap(Front- end) – WebServices com Res/SpringFramework(backend). Banco de dados DB2 e servidor Websphere 8.5. Projeto: RSUS Migração de Tecnologia Desktop(MS. Visual Basic) para Web(Java) - Análise de Casos de Uso e implementação; - Implementação utilizando Angular js, BootStrap no frontend e java com Spring no backend; - Implementação de WebService usando Spring em Arquiteturas de N Camadas seguindo as regras do cliente; - Utilização de procedures em Banco de dados Sql Server 2008-2012; - Realização de testes e refatoração de códigos seguindo as regras da ferramenta de Integração Contínua da Bradesco Seguros;"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de Sistemas JR, Cpm Braxis(Unitech)",
+      "period": "June/2007 - December/2008",
+      "description": "Salvador BA Contrato Sefaz Projetos: Manutenção em Sistemas Web(VB.Net em Ms. VS 2003/SQL Server 2003) da Sefaz. Contrato Ministério Público: Manutenção em sistemas Web(VB.Net em Ms. VS 2003/SQL Server 2003) do Ministério público."
     }
   ]
 }
